@@ -1,0 +1,5 @@
+assets
+public_html/gallery/*.*
+public_html/images/*.*
+logs
+.tracklist.txt
