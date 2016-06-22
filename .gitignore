@@ -1,5 +1,6 @@
 assets
 public_html/gallery/*.*
 public_html/images/*.*
+public_html/_default_bluehost_files/*.*
 logs
 .tracklist.txt
